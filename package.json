@@ -1,0 +1,17 @@
+{
+  "name": "first-program-lang",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "tsc && node ./javascript/index.js"
+  },
+  "author": "daniel schechtman",
+  "license": "ISC",
+  "dependencies": {
+    "ts-node": "^9.0.0"
+  },
+  "devDependencies": {
+    "@types/node": "^14.11.1"
+  }
+}
